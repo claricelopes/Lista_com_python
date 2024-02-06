@@ -1,2 +1,55 @@
 # Lista_com_python
 Listas de exercícios básicos utilizando python.
+
+- 2_1 área de um circulo
+- 2_2 peso ideal
+- 2_3 informações osbre salário
+- 2_4 saudação
+- 2_5 classificação de triângulos
+- 2_6 conceito de notas
+- 2_7 valor a ser pago
+- 2_8 valor a ser pago 2.0
+- 4_1 soma de números 
+- 4_2 maior, menor e soma dos valores
+- 4_3 maior população
+- 4_4 divisão de valores
+- 4_5 exibe dívida
+- 4_6 sistemas de vendas
+- 4_7 raiz quadrada
+- 6_1 tabuada 
+- 6_2 poupança
+- 6_3 media das idade
+- 6_4 potenciação
+- 6_5 eleição 
+- 6_6 Fibonacci
+- 6_7 número primo
+- 7_1 veores  
+- 7_2 matriz
+- 7_3 mensagem codificada 
+- 7_4 lançamento de dado
+- 7_5 processamento de valores
+- 7_6 coordenadas 
+- 7_7 dicionário 
+- 8_1 comprimento de string 
+- 8_2 data de nascimento
+- 8_3 validação CPF
+- 8_4 elimina espaços 
+- 8_5 número de ocorrências 
+- 8_6 imprime na vertical 
+- 8_7 imprime por extenso  
+- 8_8 jogo da forca
+- 8_9 soma por função
+- 8_10 positivo/negativo por função 
+- 8_11 quantidade de digitos por função
+- 8_12 imprimindo valores por função
+- 9_1 elição 2.0
+- 9_2 media 2.0
+- 9_3 pares/impares por função
+- 9_4 dobro/triplo por função
+- 9_5 categorias
+- 9_6 potenciação 2.0
+- 9_7 elimina espaços 2.0
+- 9_8 lista alternada 
+- 9_9 eleição de linguagens 
+
+
